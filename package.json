@@ -1,5 +1,5 @@
 {
-  "name": "nested-button-clicks",
+  "name": "event-propagation-assignment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
